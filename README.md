@@ -2,7 +2,7 @@
 ACADGILD DATASCIENCE Course Assignment 12.1
 
 
-To see out put of assignments I have used google cloud platform "https://colab.research.google.com". 
+To see out put of this assignment I have used google cloud platform "https://colab.research.google.com". 
 
 To run the output please follow below steps
 
